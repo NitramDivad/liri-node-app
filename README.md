@@ -1,6 +1,7 @@
 # ** Node.JS Assigning:  liri-node-app
 #
-###LIRI Node App
+
+LIRI Node App
 
 
 LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that accepts parameters and returns data based on that input.
