@@ -1,4 +1,4 @@
-# ** Node.JS Assigning:  liri-node-app
+# ** Node.JS Assignment:  liri-node-app
 #
 
 LIRI Node App
